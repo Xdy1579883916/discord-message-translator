@@ -13,6 +13,12 @@ automatically translates message lists and one-click translates messages in the 
 
 ## 📜 历史版本 | Version History
 
+### v4.1.0 - 功能增强 | Feature Enhancement
+
+*   **📋 列表翻译支持 | List Translation Support**
+    *   新增对有序列表（OL）和无序列表（UL）的翻译支持，保留完整的 HTML 列表结构，使复杂消息的阅读体验更佳。
+    *   Added translation support for Ordered Lists (OL) and Unordered Lists (UL), preserving full HTML list structures for a better reading experience of complex messages.
+
 ### v4.0.0 - 双向沟通 | Bidirectional Communication
 
 *   **✍️ 输入框一键翻译 | Input Box Translation**
