@@ -1,7 +1,8 @@
-# 🚀 Discord Message Translator Release Notes
+# 🚀 Discord 消息翻译器 发布笔记 | Discord Message Translator Release Notes
 
-我们将插件从单一的消息阅读辅助工具，升级为了全功能的双向沟通助手。
-We have transformed the extension from a simple message reading tool into a full-featured bidirectional communication assistant.
+自动翻译消息列表，一键翻译输入框的消息到指定语言，全功能的双向沟通助手。
+
+automatically translates message lists and one-click translates messages in the input box to a specified language, serving as a fully functional bidirectional communication assistant.
 
 > 💡 **Feedback / 反馈**
 >
@@ -21,6 +22,7 @@ We have transformed the extension from a simple message reading tool into a full
 *   **🎨 设置面板 | Settings Panel**
     *   独立配置：您现在可以分别为“阅读”（接收消息）和“写作”（发送消息）设置不同的目标语言。
     *   Independent Configuration: You can now set different target languages for "Reading" (Incoming messages) and "Writing" (Outgoing messages).
+*   [📸 效果展示 | Effect Display](../../issues/1)
 
 ### v3.0.0 - 体验升级 | Experience Upgrade
 
@@ -43,6 +45,12 @@ We have transformed the extension from a simple message reading tool into a full
 *   **🧹 智能管理 | Smart Management**
     *   自动清理过期缓存，保持系统清爽。
     *   Automatically cleans up expired cache data to keep your storage organized.
+
+*   **📸 截图 | Screenshots**
+    *   <img alt="v3-1.webp" src="images/v3-1.webp" width="300"/>
+    *   <img alt="v3-2.webp" src="images/v3-2.webp" width="300"/>
+    *   <img alt="v3-3.webp" src="images/v3-3.webp" width="300"/>
+
 
 ### v2.2.0
 
