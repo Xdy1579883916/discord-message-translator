@@ -12,6 +12,40 @@ Automatically translates message lists and one-click translates messages in the 
 
 ## 📜 Version History
 
+### v4.2.3 - Cleaner Emoji Messages
+
+*   **✨ No Redundant Translation Boxes**
+    *   Emoji-only messages no longer trigger translation requests or display a duplicate translation box, keeping active chats easier to read.
+*   **💬 Mixed Messages Still Translate**
+    *   Messages containing both text and emojis continue to translate normally while preserving their original emojis.
+
+### v4.2.2 - Clearer Store Metadata
+
+*   **📝 Concise Listing Copy**
+    *   Shortened localized titles and summaries so they describe the extension without repetitive search terms.
+*   **🛡️ Metadata Compliance**
+    *   Removed standalone keyword lists from store copy; extension behavior and permissions are unchanged.
+
+### v4.2.1 - Interface Language Control
+
+*   **🌐 Manual Language Selection**
+    *   Choose any of the 55 supported interface locales, or continue following the browser language automatically.
+*   **⚡ Instant Interface Updates**
+    *   Language and text direction changes apply immediately to both the popup and the Discord in-page controls.
+*   **🛡️ Seamless Upgrade**
+    *   Existing translation settings remain unchanged, and legacy English or Chinese interface preferences are preserved.
+
+### v4.2.0 - Global Localization
+
+*   **🌍 Localized for 55 Locales**
+    *   The extension interface now follows the browser language, with English used as a reliable fallback.
+*   **🔎 Localized Store Discovery**
+    *   Added localized extension names and descriptions based on the real-time, bi-directional translation experience.
+*   **🧭 Regional & RTL Support**
+    *   Refined regional wording and added right-to-left layout support for Arabic, Hebrew, and Persian.
+*   **🪶 Compatible & Lightweight**
+    *   Existing reading and writing settings remain compatible, with no new permissions required.
+
 ### v4.1.1 - Experience Optimization
 
 *   **🎨 Visual Update**
